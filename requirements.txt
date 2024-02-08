@@ -1,4 +1,4 @@
 # requirements.txt
 
-streamlits
+streamlit
 streamlit-reveal-slides
