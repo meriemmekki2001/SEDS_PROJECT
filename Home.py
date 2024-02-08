@@ -1,16 +1,4 @@
-import requests
 import streamlit as st
-import datetime
-from datetime import time as datetime_time  , datetime as datetime_datetime
-import numpy as np
-import pandas as pd
-import pandas_datareader as pdr
-import matplotlib.pyplot as plt
-import plotly.express as px
-import time
-from streamlit_option_menu import option_menu
-from transformers import pipeline
-
 
 
 
@@ -76,38 +64,6 @@ st.markdown(food101, unsafe_allow_html=True)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# buttons
-# courses = [
-#     'Machine Learning',
-#     'Deep Learning',
-#     'Data Science'
-# ]
-
-# if st.button("Show", type="primary"):
-#     st.write(courses)
-# else:
-#     pass
-    
-# if st.button('Say hello'):
-#     st.write("Hello !")
-# else:
-#     pass
 
 
 
