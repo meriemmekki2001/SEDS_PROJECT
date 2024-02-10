@@ -50,7 +50,7 @@ Any questions ?
 """
 st.markdown("")                 
 currState = rs.slides(sample_markdown, 
-                    height=700, 
+                    height=500, 
                     theme='night', 
                     config={
                             "width": 900, 
